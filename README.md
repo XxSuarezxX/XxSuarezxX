@@ -11,6 +11,12 @@
 <p align="center">
   Systems Engineering Student focused on Backend Development,
   Software Engineering and DevOps.
+  <br>
+  I build backend applications and APIs while strengthening my knowledge
+  in system design, databases, cloud technologies and software architecture.
+  <br>
+  Currently focused on building practical projects and continuously improving
+  my skills as a software engineer.
 </p>
 
 <hr/>
